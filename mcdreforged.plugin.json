@@ -1,0 +1,18 @@
+{
+  "id": "tips_reforged",
+  "version": "0.0.1",
+  "name": "TipsReforged",
+  "description": {
+    "en_us": "Send game tips to players with advanced features.",
+    "zh_cn": "增强性的向玩家发送游戏提示。"
+  },
+  "author": "Mooling0602",
+  "link": "https://github.com/Mooling0602/TipsReforged-MCDR",
+  "dependencies": {
+    "mcdreforged": ">=2.14.1"
+  },
+  "entrypoint": "tips_reforged.entry",
+  "resources": [
+    "lang"
+  ]
+}
